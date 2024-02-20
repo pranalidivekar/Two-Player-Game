@@ -1,0 +1,5 @@
+Server command:
+java PictureServer -port 80
+
+Client command:
+java Game -me sharvai -meWords sharvaiwords.txt -mePicture "prisonmike.txt" -you pranali -youWords pranaliwords.txt -youPicture dwight.txt 80

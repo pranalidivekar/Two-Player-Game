@@ -3,10 +3,10 @@ This simulates a two-player image guessing game where players take turns guessin
 The goal of this project is to demonstrate OOP concepts, networking principles through client-server communication, efficient file handling, and game logic involving recursion and backtracking. 
 It also highlights multithreading capabilities for managing concurrent interactions.
 
-##Command for the server:
+## Command for the server:
 java PictureServer -port 80
 
-##Command for the client:
+## Command for the client:
 java Game -me pranali -meWords pranaliwords.txt -mePicture "prisonmike.txt" -you player2 -youWords pranaliwords2.txt -youPicture dwight.txt 80
 
 ## Contributing
